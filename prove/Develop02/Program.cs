@@ -1,3 +1,7 @@
+// Creativity was shown by using the DateTime data type for the date so that the date can be automaticly recieved
+// Also the entries are autoloaded when the program boots up and auto saved when the user exits the program
+// Finally there is an option to clear all entries from the journal
+
 using System;
 class Program
 {
