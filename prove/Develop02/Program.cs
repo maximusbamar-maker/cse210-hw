@@ -57,7 +57,7 @@ class Program
             {
                 Console.WriteLine("Goodbye");
                 userJournal.Save();
-                Console.WriteLine("Entries Saved");
+                Console.WriteLine("Auto Saved");
                 break;
             }
             else if (choice == "6")
