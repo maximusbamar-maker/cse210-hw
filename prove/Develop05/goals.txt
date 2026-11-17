@@ -1,0 +1,4 @@
+500
+SimpleGoal|Cook Dinner`Make your self food`100`True
+EternalGoal|Read Scriptures`Study the scriptues`20
+ChecklistGoal|Shower`Take a shower once a week`100`52`3`10000

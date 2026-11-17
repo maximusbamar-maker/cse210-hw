@@ -249,6 +249,18 @@
             ],
             "problemMatcher": "$msCompile"
         },
-
+        
+        {
+            "label": "build-Mvar",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Mvar/Mvar.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        }
     ]
 }

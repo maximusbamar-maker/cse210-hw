@@ -250,5 +250,17 @@
             "stopAtEntry": false
         },
 
+        {
+            "name": "Mvar",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-Mvar",
+            "program": "${workspaceFolder}/Mvar/bin/Debug/net10.0/Mvar.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Mvar",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        }
     ]
 }
